@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Doyoon Jeon. I'm a undergraduate student of KAIST, majoring in both mathematics and computer science.
-- 👀 I’m interested in AI amd machine learning.
+- 👀 I’m interested in AI and machine learning.
 - 🌱 I’m currently learning deep learning.
 - 💞️ I’m looking to collaborate on other people.
 - 📫 How to reach me: contact to me on IG! @doyun0810
