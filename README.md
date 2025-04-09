@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and machine learning.
 - 🌱 I’m currently studying about deep learning.
 - 💞️ I’m looking to collaborate on other people.
-- 📫 How to reach me: contact to me on IG! @doyun0810
+- 📫 How to reach me: contact to me on IG! @dxyxn0810
 
 <!---
 mathdoyun/mathdoyun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
